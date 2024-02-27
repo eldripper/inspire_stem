@@ -7,10 +7,10 @@ if salary > 3000 or salary < 5000 :
     salary = salary * 0.1 + salary
     print(salary)
 
-    home_county = "nyeri"
+    home_county = input("enter your home county :")
 
-    if home_county == "nyeri" or home_county == "kisii":
-        print("you get a bursary") 
+if home_county == "nyeri" or home_county == "kisii":
+    print("you get a bursary") 
 
 
 grade = 70
