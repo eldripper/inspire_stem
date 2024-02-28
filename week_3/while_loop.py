@@ -3,9 +3,21 @@
 # name : elias
 
 
-number = 20
+x = 1 
+while x < 20 :
+   
+    #if x == 5 :
+       # break
 
-for i in range(1,number):
-    while i < number:
-        print(i)
+    if x == 6 :
+        continue
 
+    x = x+1
+    print(x)
+
+
+    x = 2 # int
+    h = 1.0989 # float
+
+    print(float(x))
+    print(int(h))
