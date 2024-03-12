@@ -8,8 +8,8 @@ for x in range(1,max_value + 1):
     factorial_nums = factorial_nums * x
     print(factorial_nums)
 
-for i in range(0,20,2):
+for i in range(0,20,2): # print even nubers
     print(i)
 
-for i in range(1,20,2):
+for i in range(1,20,2): # print odd numbers
     print(i)

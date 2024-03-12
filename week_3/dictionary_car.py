@@ -18,7 +18,7 @@ print(car)
 
 bro_car = car.copy()# copy dictionary
 
-
+print(bro_car)
 
 for key, value in car.items():
     print(key)
