@@ -1,0 +1,30 @@
+section{
+    background-color: red;
+    color: blueviolet;
+       
+}
+img{width:16cm;
+
+    height:9cm;
+}
+.header-1{
+
+    color: aquamarine;
+}
+.ball{
+
+    background-color: purple;
+    height: 100px;
+    width: 50px;
+}
+#bouncing{
+    position: absolute;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+   
